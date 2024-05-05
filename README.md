@@ -15,11 +15,17 @@ Tener instalado python en Visual Studio Code
 3. Pasos a pason del proyecto 🔧
    
 -Primero se debe descargar el archivo de excel el cual es el dataset del proyecto, 
+
 -luego copiamos la dirección donde se encuentra este archivo,
+
 -depues entramos a Visual Estudio Code y lo pegagomos en la linea 11 sustituyendo la otra direccion que aparece,
+
 -adicional a esto descargamos la imagen de adidas, la guardamos y copiamos la direccion de la imagen y lo sustituimos en la linea 75
+
 (cabe mencionar que el archivo de excel tiene extención .xlsx y la imagen .jpg)
+
 -Finalmente verificamos que todas las librerias que se estan importante se hayan descargado correctamente y oprimimos el botón RUN
+
 (Tener de cuenta de que la el usuario en la interfaz grafica es "user1234"  y la contraseña es "1234"
 
 
@@ -30,10 +36,13 @@ El proyecto cuenta con un codigo el cual requiere de distintas librerarias las c
 
 
 
-5.
+
 Bryan Burbano Carvajal
+
 Jhony Hurtado Silvano
+
 Santiago Carvajal
+
 Jhon David Franco
 
 
