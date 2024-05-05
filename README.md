@@ -26,7 +26,7 @@ Tener instalado python en Visual Studio Code
 
 (cabe mencionar que el archivo de excel tiene extención .xlsx y la imagen .jpg)
 
--Finalmente verificamos que todas las librerias que se estan importante se hayan descargado correctamente y oprimimos el botón RUN
+-Finalmente verificamos que todas las librerias mportadas se hayan descargado correctamente y oprimimos el botón RUN
 
 (Tener de cuenta de que la el usuario en la interfaz grafica es "user1234"  y la contraseña es "1234"
 
